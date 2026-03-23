@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Mauro Flores 👋
 
-<!--
-**maurofloresr/maurofloresr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Automation and Backend Developer** focused on building secure, logic-driven systems and streamlining complex workflows.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Backend:** Python, Flask, REST APIs, SQL.
+- **Frontend:** React, JavaScript, HTML5, CSS3, SASS.
+- **Tools & Others:** Git, Github, API Security (Auth/Hashing), Process Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **[Secure User Manager](link):** API focused on authentication and backend security best practices.
+- **[Rock Paper Scissors IA](link):** Adaptive game engine based on probability logic.
+- **[Habit Tracker](link):** (Work in Progress) Modular system for behavioral analysis.
+
+### 📚 Currently Learning
+- CS50x Harvard (Computer Science Fundamentals)
+- Advanced Next.js & TypeScript
